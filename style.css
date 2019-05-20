@@ -1,0 +1,13 @@
+.container .row .alert {
+    color: white;
+    font-style: italic;
+    padding: 5px
+}
+
+.success {
+    background:green
+}
+
+.error {
+    background: red
+}
